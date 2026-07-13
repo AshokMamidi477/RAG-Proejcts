@@ -1,0 +1,25 @@
+CLINICAL TRIAL SUMMARY — TRIAL ID: CT-2023-DM-001
+
+Title: Efficacy of GLP-1 Receptor Agonist vs. Insulin Glargine in Type 2 Diabetes Management
+
+Phase: Phase III
+Disease Area: Type 2 Diabetes Mellitus
+Sponsor: MedResearch Corp
+Duration: 52 weeks
+Sample Size: 486 participants (243 per arm)
+
+PRIMARY ENDPOINT:
+Change in HbA1c from baseline at 52 weeks.
+
+RESULTS:
+GLP-1 arm achieved mean HbA1c reduction of 1.8% vs 1.4% for insulin glargine (p=0.003).
+Weight loss was significantly greater in GLP-1 arm (-4.2 kg vs +1.1 kg, p<0.001).
+Hypoglycaemic events were lower in GLP-1 arm (12% vs 28%).
+
+CONCLUSION:
+GLP-1 receptor agonist demonstrated superior glycaemic control and weight benefit with
+a more favourable hypoglycaemia profile compared to insulin glargine over 52 weeks.
+
+ADVERSE EVENTS:
+Nausea reported in 22% of GLP-1 participants (mostly mild-moderate, resolved within 4 weeks).
+No serious cardiac events in either arm.

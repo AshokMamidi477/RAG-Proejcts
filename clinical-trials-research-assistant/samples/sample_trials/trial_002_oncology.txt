@@ -1,0 +1,31 @@
+CLINICAL TRIAL SUMMARY — TRIAL ID: CT-2023-ONC-007
+
+Title: PD-1 Inhibitor Combination Therapy in Advanced Non-Small Cell Lung Cancer
+
+Phase: Phase II
+Disease Area: Non-Small Cell Lung Cancer (NSCLC), Stage IIIB/IV
+Sponsor: OncoPharma Ltd
+Duration: 24 months (ongoing)
+Sample Size: 120 participants
+
+PRIMARY ENDPOINT:
+Overall response rate (ORR) at 6 months.
+
+ELIGIBILITY CRITERIA:
+- Age 18-75
+- ECOG performance status 0-2
+- No prior PD-1/PD-L1 therapy
+- Confirmed NSCLC histology
+
+INTERIM RESULTS (12-month data):
+ORR: 41% in combination arm vs 24% in monotherapy arm.
+Median progression-free survival: 8.3 months (combination) vs 5.1 months (monotherapy).
+Disease control rate: 68% vs 52%.
+
+ADVERSE EVENTS:
+Grade 3-4 immune-related adverse events: 18% in combination vs 9% in monotherapy.
+Most common: pneumonitis (7%), colitis (5%), hepatitis (3%).
+
+CONCLUSION:
+Combination PD-1 inhibitor therapy shows promising efficacy signal with manageable toxicity.
+Full 24-month data pending.

@@ -1,0 +1,29 @@
+CLINICAL TRIAL SUMMARY — TRIAL ID: CT-2022-CV-014
+
+Title: SGLT2 Inhibitor for Heart Failure with Preserved Ejection Fraction
+
+Phase: Phase III
+Disease Area: Heart Failure with Preserved Ejection Fraction (HFpEF)
+Sponsor: CardioTrial Foundation
+Duration: 36 months
+Sample Size: 1,124 participants
+
+PRIMARY COMPOSITE ENDPOINT:
+Cardiovascular death OR worsening heart failure (hospitalisation or urgent visit).
+
+RESULTS:
+Primary endpoint occurred in 21.2% of SGLT2 inhibitor arm vs 26.7% of placebo arm.
+Hazard ratio: 0.78 (95% CI 0.64–0.95, p=0.011).
+Number needed to treat: 18 over 36 months.
+
+SECONDARY ENDPOINTS:
+Kansas City Cardiomyopathy Questionnaire score improved by 4.3 points vs 1.8 (p=0.002).
+eGFR decline was slower in treatment arm (-1.4 vs -2.7 ml/min/1.73m2/year).
+
+SAFETY:
+Genital mycotic infections higher in treatment arm (9% vs 2%).
+No significant difference in DKA events. Amputation risk comparable between arms.
+
+CONCLUSION:
+SGLT2 inhibition significantly reduced cardiovascular events in HFpEF patients and improved
+quality of life, representing a new treatment option for this historically difficult-to-treat population.
