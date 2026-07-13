@@ -1,0 +1,30 @@
+BETA TECH INC — QUARTERLY REPORT (FORM 10-Q) — Q2 2023
+
+PART I — FINANCIAL INFORMATION
+
+Q2 2023 Revenue: $94.7 million (up 31% YoY)
+Q2 2023 Gross Profit: $61.6 million (gross margin: 65%)
+Q2 2023 Operating Loss: $8.2 million
+Q2 2023 Net Loss: $9.1 million
+Diluted EPS: ($0.14)
+
+SEGMENT PERFORMANCE:
+Hardware: $38.2 million revenue (up 12%)
+Cloud Services: $56.5 million revenue (up 48%)
+
+RISK FACTORS UPDATE:
+
+Supply Chain: Component shortages continue to affect hardware delivery timelines.
+Lead times for key semiconductor components remain elevated at 28-32 weeks.
+
+Regulatory: The Company is subject to ongoing review by the FTC regarding its 2022
+acquisition of CloudBase Inc. Management believes the acquisition will receive approval
+but cannot guarantee the outcome or timing.
+
+LIQUIDITY:
+Cash: $156 million. The Company has $200 million revolving credit facility, undrawn.
+Management believes current cash position is sufficient for 18+ months of operations.
+
+GUIDANCE REVISION:
+Full year 2023 revenue guidance revised to $375-385 million (from $365-380 million).
+Cloud Services growth expected to accelerate in H2 due to new enterprise contracts signed in Q2.

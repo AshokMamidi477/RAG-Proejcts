@@ -1,0 +1,33 @@
+# LangChain Core Stack
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.72
+langchain-text-splitters==0.3.9
+
+# Google Gemini
+langchain-google-genai==2.1.5
+
+# Pinecone
+langchain-pinecone==0.2.11
+pinecone==7.3.0
+
+# HuggingFace
+langchain-huggingface==0.3.1
+sentence-transformers
+
+# API
+fastapi
+uvicorn
+
+# Environment
+python-dotenv
+
+# PDF
+pypdf
+
+# Tokenizer
+tiktoken
+
+# Data
+numpy
+pandas
