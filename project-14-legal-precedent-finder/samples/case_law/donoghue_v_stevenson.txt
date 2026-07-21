@@ -1,0 +1,27 @@
+CASE: Donoghue v Stevenson [1932] AC 562
+
+JURISDICTION: House of Lords (UK)
+AREA OF LAW: Tort — Negligence — Duty of Care
+
+FACTS:
+Mrs Donoghue consumed ginger beer from an opaque bottle purchased by a friend at a cafe.
+The bottle contained a decomposed snail. She suffered gastroenteritis and nervous shock.
+She could not sue in contract (the friend made the purchase). She sued the manufacturer in tort.
+
+HELD:
+The House of Lords (3-2) held that the manufacturer owed a duty of care to the ultimate consumer.
+Lord Atkin established the 'neighbour principle': you must take reasonable care to avoid acts or
+omissions which you can reasonably foresee would be likely to injure your neighbour.
+
+'Neighbours' are persons so closely and directly affected by your act that you ought reasonably
+to have them in contemplation when directing your mind to the acts or omissions in question.
+
+LEGAL PRINCIPLE:
+Established the modern law of negligence in the UK. For a duty of care to exist:
+1. The defendant must be able to foresee that their conduct could cause harm to the claimant
+2. There must be sufficient proximity between the parties
+3. It must be fair, just and reasonable to impose a duty (later additions from Caparo)
+
+SIGNIFICANCE:
+Foundational case for tort law throughout common law jurisdictions. Overruled Winterbottom v Wright
+and established that liability in negligence does not depend on contractual privity.

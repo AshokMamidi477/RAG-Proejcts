@@ -1,0 +1,28 @@
+CASE: Caparo Industries plc v Dickman [1990] 2 AC 605
+
+JURISDICTION: House of Lords (UK)
+AREA OF LAW: Tort — Negligence — Duty of Care — Economic Loss — Auditors
+
+FACTS:
+Caparo acquired shares in Fidelity plc relying on audited accounts prepared by Dickman (auditors).
+The accounts were negligently prepared and significantly overstated the company's value.
+Caparo suffered substantial financial loss and sued the auditors in negligence.
+
+HELD:
+The House of Lords held that the auditors did NOT owe a duty of care to Caparo as investors.
+The auditors' duty was to the company and its existing shareholders as a body — not to individual
+investors or potential investors making investment decisions.
+
+THREE-STAGE TEST FOR DUTY OF CARE (Caparo Test):
+Lord Bridge articulated a three-stage test that must ALL be satisfied:
+1. Foreseeability: Was it foreseeable that the claimant might be harmed?
+2. Proximity: Was there a sufficiently close relationship between the parties?
+3. Fair, just and reasonable: Is it fair, just and reasonable to impose a duty?
+
+APPLICATION:
+This three-stage test refined the Donoghue neighbour principle and is now the primary test
+for novel duty of care situations in English law. Courts approach incrementally by analogy
+with established categories rather than applying a single general principle.
+
+SIGNIFICANCE:
+Essential case for any negligence analysis involving pure economic loss or professional services.

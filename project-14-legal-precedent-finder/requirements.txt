@@ -1,0 +1,59 @@
+# ==========================
+# LlamaIndex Core
+# ==========================
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+
+
+# ==========================
+# FAISS Vector Store
+# ==========================
+llama-index-vector-stores-faiss>=0.1.0
+faiss-cpu>=1.8.0
+
+
+# ==========================
+# Gemini LLM
+# ==========================
+llama-index-llms-gemini>=0.1.0
+google-generativeai>=0.8.0
+
+
+# ==========================
+# HuggingFace Embeddings
+# ==========================
+llama-index-embeddings-huggingface>=0.2.0
+sentence-transformers>=3.0.0
+transformers>=4.40.0
+
+
+# ==========================
+# Document Processing
+# ==========================
+pymupdf>=1.23.0
+
+
+# ==========================
+# API
+# ==========================
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+
+# ==========================
+# Frontend
+# ==========================
+streamlit>=1.35.0
+requests>=2.31.0
+
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv>=1.0.0
+
+
+# ==========================
+# Testing
+# ==========================
+pytest>=8.0.0
