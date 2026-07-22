@@ -1,0 +1,23 @@
+BOB JONES
+bob.jones@email.com | London, UK
+
+SUMMARY:
+Data analyst with 2 years of experience transitioning into data engineering.
+Strong SQL skills, learning Python and cloud platforms.
+
+EXPERIENCE:
+
+Data Analyst — RetailCorp (2022-Present)
+- Built SQL reports and dashboards in Tableau for senior management
+- Automated Excel-based reporting using Python scripts (pandas)
+- Worked with DBA team to optimise slow-running queries
+
+Junior Data Analyst — StartupXYZ (2021-2022)
+- Created weekly KPI reports using Google Sheets and Looker
+- Basic Python scripting for data cleaning tasks
+
+SKILLS:
+SQL (intermediate), Python (basic — pandas, numpy), Excel, Tableau, Looker,
+Google Cloud (basic), Git (basic)
+
+EDUCATION: BSc Business Analytics, City University London (2021)

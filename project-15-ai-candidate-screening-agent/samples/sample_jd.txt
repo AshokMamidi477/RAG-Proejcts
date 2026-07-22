@@ -1,0 +1,32 @@
+SENIOR DATA ENGINEER — JOB DESCRIPTION
+
+Company: Acme Analytics Ltd
+Location: London (Hybrid — 2 days office)
+Salary: £70,000 — £90,000
+
+ABOUT THE ROLE:
+We are looking for a Senior Data Engineer to join our growing data platform team.
+You will design, build and maintain robust data pipelines that power our analytics
+and ML products serving 500+ enterprise clients.
+
+KEY RESPONSIBILITIES:
+- Design and implement scalable ETL/ELT data pipelines using Apache Spark and Airflow
+- Manage and optimise our AWS data lake (S3, Glue, Redshift)
+- Collaborate with data scientists to productionise ML models
+- Implement data quality checks and monitoring using Great Expectations
+- Mentor junior engineers and contribute to architectural decisions
+
+REQUIRED SKILLS AND EXPERIENCE:
+- 4+ years of data engineering experience
+- Strong proficiency in Python (pandas, PySpark)
+- Deep experience with AWS services (S3, Redshift, Glue, Lambda)
+- Proficient in SQL (complex queries, query optimisation)
+- Experience with Apache Airflow or similar workflow orchestration
+- Knowledge of data warehouse concepts and dimensional modelling
+- Version control with Git, CI/CD pipelines
+
+NICE TO HAVE:
+- Experience with dbt (data build tool)
+- Kafka or other streaming platforms
+- Terraform for infrastructure as code
+- Experience in a startup or scale-up environment

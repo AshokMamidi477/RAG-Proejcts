@@ -1,0 +1,26 @@
+CAROL CHEN
+carol.chen@email.com | Remote (UK-based)
+
+SUMMARY:
+Data Engineer with 5 years of experience specialising in streaming architectures
+and real-time data processing. AWS certified.
+
+EXPERIENCE:
+
+Data Engineer — StreamTech Ltd (2020-Present)
+- Designed Kafka-based streaming pipeline processing 10M events/day
+- Built AWS Lambda + Kinesis real-time data processing architecture
+- Implemented dbt models for our Redshift data warehouse
+- Automated infrastructure with Terraform
+
+Data Engineer — FinanceCo (2019-2020)
+- Migrated on-premise data warehouse to AWS Redshift
+- Built Apache Airflow workflows for regulatory reporting
+
+SKILLS:
+Python (PySpark, pandas), SQL (advanced), Apache Kafka, Apache Airflow,
+AWS (S3, Redshift, Kinesis, Lambda, Glue), dbt, Terraform, Git
+
+CERTIFICATIONS: AWS Certified Data Analytics Specialty (2022)
+
+EDUCATION: MEng Electronic Engineering, Imperial College London (2019)

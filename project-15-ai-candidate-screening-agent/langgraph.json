@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "candidate_screening": "./app/graphs/graph_builder.py:build_screening_graph"
+  },
+  "env": ".env"
+}

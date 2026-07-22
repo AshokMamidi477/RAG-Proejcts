@@ -1,0 +1,25 @@
+ALICE SMITH
+alice.smith@email.com | LinkedIn: /in/alice-smith | London, UK
+
+SUMMARY:
+Senior Data Engineer with 6 years of experience building large-scale data pipelines.
+Passionate about clean, maintainable data infrastructure at scale.
+
+EXPERIENCE:
+
+Senior Data Engineer — DataFlow Tech (2021-Present)
+- Led migration of monolithic ETL to Spark-based microservices on AWS, reducing runtime by 70%
+- Built Airflow DAGs processing 50TB/day across 200+ pipelines
+- Implemented Great Expectations data quality framework across all pipelines
+- Mentored 3 junior engineers
+
+Data Engineer — Analytics Co (2019-2021)
+- Designed Redshift data warehouse schema for financial reporting
+- Built S3/Glue data lake serving 5 data science teams
+- Created automated CI/CD pipeline for Airflow DAG deployment
+
+SKILLS:
+Python (PySpark, pandas), SQL (advanced), Apache Airflow, Apache Spark,
+AWS (S3, Redshift, Glue, Lambda, EMR), dbt, Git, Terraform, Great Expectations
+
+EDUCATION: BSc Computer Science, University of Manchester (2018)
