@@ -1,0 +1,5 @@
+[
+  {"id":1,"note":"58-year-old male presenting with acute onset chest pain radiating to left arm for 2 hours. ST elevation noted on ECG in leads V1-V4. Troponin elevated. Diagnosis: anterior STEMI. Background history of hypertension and type 2 diabetes.","expected_codes":["I21.0","I10","E11.9"]},
+  {"id":2,"note":"45-year-old female with worsening shortness of breath and productive cough for 5 days. Chest X-ray shows right lower lobe consolidation. Temperature 38.9C. Diagnosis: community-acquired pneumonia.","expected_codes":["J18.9"]},
+  {"id":3,"note":"67-year-old male with known COPD presenting with increased dyspnoea, purulent sputum, and reduced peak flow. Acute exacerbation of COPD. Also has poorly controlled hypertension on amlodipine.","expected_codes":["J44.1","I10"]}
+]

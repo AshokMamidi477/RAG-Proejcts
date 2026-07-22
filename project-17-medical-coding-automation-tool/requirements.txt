@@ -1,0 +1,16 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-google-genai==2.1.10
+langchain-pinecone==0.2.12
+
+pinecone-client==6.0.0
+
+sentence-transformers==3.4.1
+torch
+
+fastapi
+uvicorn
+streamlit
+
+python-dotenv
+pytest

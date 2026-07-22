@@ -1,0 +1,52 @@
+ICD-10-CM DIAGNOSTIC CODE REFERENCE — SELECTED CODES
+
+CHAPTER 9: DISEASES OF THE CIRCULATORY SYSTEM
+
+I10 — Essential (primary) hypertension
+High blood pressure with no identifiable cause. Most common form of hypertension.
+
+I20.0 — Unstable angina
+Chest pain due to reduced blood flow to the heart. Occurs at rest or with minimal exertion.
+Requires urgent evaluation. Includes: crescendo angina, de novo effort angina.
+
+I21.0 — ST elevation myocardial infarction (STEMI) of anterior wall
+Heart attack involving the anterior (front) wall. Characterised by ST elevation on ECG.
+
+I21.9 — Acute myocardial infarction, unspecified
+Heart attack, type not further specified. Use when documentation is insufficient for specificity.
+
+I25.10 — Atherosclerotic heart disease without angina pectoris
+Coronary artery disease with plaque buildup but no angina symptoms documented.
+
+I50.9 — Heart failure, unspecified
+Cardiac failure where the heart cannot pump sufficient blood. When type not documented.
+
+CHAPTER 10: DISEASES OF THE RESPIRATORY SYSTEM
+
+J18.9 — Pneumonia, unspecified organism
+Lung infection when specific causative organism not identified or documented.
+
+J44.1 — Chronic obstructive pulmonary disease with acute exacerbation
+COPD with sudden worsening of symptoms. Requires code for COPD type if known.
+
+J45.20 — Mild intermittent asthma, uncomplicated
+Asthma with symptoms fewer than 2 days per week, not affecting normal activity.
+
+CHAPTER 11: DISEASES OF THE DIGESTIVE SYSTEM
+
+K21.0 — Gastro-oesophageal reflux disease with oesophagitis
+GORD/GERD with inflammation of the oesophagus. Includes: reflux oesophagitis.
+
+K57.30 — Diverticulosis of large intestine without perforation, abscess, or bleeding
+Pouches in the colon wall without complications.
+
+CHAPTER 4: ENDOCRINE, NUTRITIONAL AND METABOLIC DISEASES
+
+E11.9 — Type 2 diabetes mellitus without complications
+Most common form of diabetes. Characterised by insulin resistance. No complications documented.
+
+E11.65 — Type 2 diabetes mellitus with hyperglycaemia
+Type 2 diabetes with elevated blood glucose levels documented at encounter.
+
+E78.5 — Hyperlipidaemia, unspecified
+Elevated lipids in blood. Includes: hypercholesterolaemia, hypertriglyceridaemia.
