@@ -1,0 +1,38 @@
+ACME SAAS PLATFORM — CUSTOMER SUPPORT KNOWLEDGE BASE
+
+PRICING AND PLANS:
+Starter Plan: $29/month — up to 5 users, 10GB storage, email support only.
+Professional Plan: $99/month — up to 25 users, 100GB storage, priority email + chat support.
+Enterprise Plan: Custom pricing — unlimited users, unlimited storage, 24/7 phone support, dedicated CSM.
+All plans include a 14-day free trial. No credit card required for trial.
+Annual billing available with 20% discount on all plans.
+
+CANCELLATION AND REFUNDS:
+You can cancel your subscription at any time from Account Settings > Billing > Cancel Subscription.
+Cancellation takes effect at the end of your current billing period.
+We do not offer refunds for partial months. Annual subscribers can request a pro-rata refund
+within 30 days of renewal if they have not used the service.
+
+INTEGRATIONS:
+Native integrations available: Slack, Google Workspace, Microsoft 365, Salesforce, HubSpot.
+API access available on Professional and Enterprise plans.
+Zapier integration available on all paid plans.
+Webhooks: available on Professional and Enterprise plans.
+
+ACCOUNT AND SECURITY:
+Two-factor authentication (2FA) is available and recommended for all users.
+SSO (SAML 2.0) is available on Enterprise plan only.
+Data export: you can export all your data as CSV or JSON from Account Settings > Data > Export.
+Password reset: click "Forgot password" on the login page. Reset link expires in 24 hours.
+
+STORAGE AND DATA:
+Storage limits apply to uploaded files only (documents, images). Database records are not counted.
+If you exceed your storage limit, you will receive an email warning at 80% and 100% usage.
+Exceeding the limit prevents new file uploads until storage is freed or plan is upgraded.
+Data is backed up daily. Backups retained for 30 days on all plans.
+
+SUPPORT:
+Starter: email support only, response within 2 business days.
+Professional: email + live chat, response within 4 business hours.
+Enterprise: 24/7 phone + email + chat, dedicated Customer Success Manager.
+Status page: status.acmesaas.com for real-time system status.
